@@ -14,7 +14,6 @@ Each problem simulates practical applications used in industries such as:
 This project demonstrates structured programming and modular design using OOPS principles.
 
 ## OOPS Concepts Implemented
-
 -  Classes and Objects  
 -  Constructors (`__init__`)  
 -  Instance Variables  
